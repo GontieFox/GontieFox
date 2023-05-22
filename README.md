@@ -11,7 +11,7 @@
 const gontieFox = {
   pronouns: "he" | "him",
   location: "Ukraine, Poltava",
-  age: "18y.o",
+  age: 18,
   code: [JavaScript, TypeScript, HTML, CSS],
   tools: [React, Redux, React Router, TailwindCSS, SCSS, Vue, Vite, Postman, Figma],
   hobby: "playing the guitar, listening to music, playing games",
