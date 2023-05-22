@@ -10,8 +10,11 @@
 ```javascript
 const gontieFox = {
   pronouns: "he" | "him",
+  location: "Ukraine, Poltava",
+  age: "18y.o",
   code: [JavaScript, TypeScript, HTML, CSS],
   tools: [React, Redux, React Router, TailwindCSS, SCSS, Vue, Vite, Postman, Figma],
+  hobby: "playing the guitar, listening to music, playing games",
   challenge: "Become a full stack developer with Vue, React, ExpressJS, Mongoose"
 }
 ```
