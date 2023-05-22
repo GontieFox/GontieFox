@@ -1,25 +1,18 @@
 <h2> Sup, I'm Yevhenii Vyshnevskyi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I'm a Software Enginner<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://camo.githubusercontent.com/ff642d0e4fd32df760c04b954ce6646b0dcc83c19b48200d63684bdcf17dca84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d737175617265266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/GontieFox)
+[![Telegram: GontieFox](https://camo.githubusercontent.com/ff642d0e4fd32df760c04b954ce6646b0dcc83c19b48200d63684bdcf17dca84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d737175617265266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/GontieFox)
 [![GitHub GontieFox](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/GontieFox)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> So... Let's learn more about each other  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> So... Let's learn more about each other  
 
 ```javascript
 const gontieFox = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS],
-  tools: [React, Redux, React Router, TailwindCSS, SCSS, Vue, Vite, Postman],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Redux, React Router, TailwindCSS, SCSS, Vue, Vite, Postman, Figma],
+  challenge: "Become a full stack developer with Vue, React, ExpressJS, Mongoose"
 }
 ```
 
